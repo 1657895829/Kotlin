@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">Kotlin新语言使用RxJava+Retrofit请求网络数据+lambda表达式+RecyclerView展示+Glide展示图片</string>
+</resources>
